@@ -3,8 +3,8 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-/// A custom scaffold widget that adapts to different platforms (iOS and Android).
-class CustomScaffold extends StatelessWidget {
+/// A native scaffold widget that adapts to different platforms (iOS and Android).
+class NativeScaffold extends StatelessWidget {
   /// The title for the app bar or navigation bar.
   final String title;
 
@@ -44,8 +44,8 @@ class CustomScaffold extends StatelessWidget {
   /// Whether the app bar should be enabled.
   final bool? appBarEnabled;
 
-  /// Creates a custom scaffold widget.
-  const CustomScaffold({
+  /// Creates a native scaffold widget.
+  const NativeScaffold({
     Key? key,
     required this.title,
     this.action,

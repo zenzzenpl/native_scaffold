@@ -28,7 +28,7 @@ dependencies:
 Using it is as **easy as** create a **Container**, Don't beleave? Let me show you:
 
 ```dart
-CustomScaffold(
+NativeScaffold(
 	title: "This is easy",
 	child: ...,
 );
