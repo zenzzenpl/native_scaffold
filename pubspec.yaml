@@ -1,7 +1,7 @@
 name: native_scaffold
 description: This is a Popular, Simple and Easy to use Flutter Package to create Native Scaffold for both Android and iOS.
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: ">=2.19.6 <3.0.0"
