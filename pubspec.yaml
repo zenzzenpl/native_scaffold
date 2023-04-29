@@ -1,0 +1,21 @@
+name: native_scaffold
+description: This is a Popular, Simple and Easy to use Flutter Package to create Native Scaffold for both Android and iOS.
+
+version: 1.0.0+4
+
+environment:
+  sdk: ">=2.19.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+homepage: https://github.com/zenzzenpl/native_scaffold
