@@ -7,7 +7,7 @@ You can simply add the dependency from **cli** like:
 
 ```yaml
 dependencies:
-	custom_scaffold:
+  custom_scaffold:
 ```
 
 ### What is different?
