@@ -119,10 +119,10 @@ packages:
     dependency: "direct main"
     description:
       name: native_scaffold
-      sha256: d35c915b8405fb0eab657cc3115c318c9fe9ba73851b349e62006ec0a32c8345
+      sha256: "32f4e2fad693960321d73ab246d4dd12d3cf57aab81cc684889786ab7a8d27d4"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   path:
     dependency: transitive
     description:
