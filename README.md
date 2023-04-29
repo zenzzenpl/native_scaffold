@@ -3,13 +3,13 @@
 ## How to get started❓ 🤔
 
 You can simply add the dependency from **cli** like:
-`flutter pub add custom_scaffold`
+`flutter pub add native_scaffold`
 
 **Or** you can add it in your **pubspec.yaml** like:
 
 ```yaml
 dependencies:
-  custom_scaffold:
+  native_scaffold:
 ```
 
 ### What is different?
